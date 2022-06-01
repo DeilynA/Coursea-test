@@ -63,8 +63,6 @@ color: solid black;
         width: 100%;
       }
 
-    }
-
   </style>
 </head>
 <body>
