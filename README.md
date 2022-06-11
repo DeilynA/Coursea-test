@@ -1,6 +1,3 @@
-# Coursea-test
-Coursea test repository
-
 <!doctype html>
 <html>
 <head>
@@ -63,6 +60,8 @@ color: solid black;
         width: 100%;
       }
 
+    }
+
   </style>
 </head>
 <body>
@@ -77,5 +76,7 @@ color: solid black;
 
 </body>
 </html>
+
+    
 
     
